@@ -1,0 +1,18 @@
+*{
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+}
+.header img{
+    width: 80px;
+    height: 80px;
+    padding: 10px;
+    margin-left: 950px;
+    margin-right: -950px;
+}
+.header{
+    display:inline-flex;
+    border: 2px solid white;
+    width: 800px;
+    height: 100px;
+}
